@@ -1,5 +1,8 @@
 {
     "app": {
         "name": "Pueba de condepto Traducciones"
+    },
+    "home": {
+        "title": "Página Principal"
     }
 }

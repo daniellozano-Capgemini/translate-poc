@@ -1,5 +1,8 @@
 {
     "app": {
         "name": "Proof of Concept Translations"
+    },
+    "home": {
+        "title": "Home page"
     }
 }
