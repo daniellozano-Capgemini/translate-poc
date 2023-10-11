@@ -3,6 +3,11 @@
         "name": "Pueba de condepto Traducciones"
     },
     "home": {
-        "title": "Página Principal"
+        "title": "Página Principal",
+        "goDashboard": "Ir al panel"
+    },
+    "dashboard": {
+        "title": "Página panel",
+        "return": "volver a la página principal"
     }
 }

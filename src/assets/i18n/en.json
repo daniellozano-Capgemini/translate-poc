@@ -3,6 +3,11 @@
         "name": "Proof of Concept Translations"
     },
     "home": {
-        "title": "Home page"
+        "title": "Home page",
+        "goDashboard": "Go to Dashboard"
+    },
+    "dashboard": {
+        "title": "Dashboard page",
+        "return": "Return home"
     }
 }

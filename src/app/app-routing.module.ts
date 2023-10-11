@@ -13,6 +13,11 @@ const routes: Routes = [
   },
 
   {
+    path: 'dashboard',
+    loadChildren: () => import('./dashboard'),
+  },
+
+  {
     path: '**',
     pathMatch: 'full',
     redirectTo: 'home',
